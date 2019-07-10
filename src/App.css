@@ -1,0 +1,14 @@
+.grid-container{
+  display: grid;
+  grid: 150px / auto auto;
+  padding: 10px;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 20px 0;
+  font-size: 30px;
+}
+.row{
+  display: grid;
+}
